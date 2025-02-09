@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Untitled",
+    "file": "samples/LAVENDER_BEAT.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": "0.041",
+    "overlap": 0.01
+  },
+  {
+    "name": "Untitled",
+    "file": "samples/BLISS_BEAT.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": "0.051",
+    "overlap": 0.01
+  },
+  {
+    "name": "Untitled",
+    "file": "samples/BEAT_1_ANTHEM.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
