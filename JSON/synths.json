@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "name": "Caprisuns",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.105",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fmtriangle",
+        "harmonicity": 1,
+        "modulationIndex": 4,
+        "modulationType": "sawtooth"
+      }
+    }
+  },
+  {
+    "name": "Charlie's Angels",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.015",
+        "attackCurve": "exponential",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1.005",
+        "releaseCurve": "exponential",
+        "sustain": "0.205"
+      },
+      "oscillator": {
+        "partialCount": 2,
+        "partials": [
+          1,
+          1
+        ],
+        "phase": 0,
+        "type": "amsine2",
+        "harmonicity": 5,
+        "modulationType": "sawtooth"
+      }
+    }
+  }
+]
